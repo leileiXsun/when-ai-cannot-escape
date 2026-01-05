@@ -65,8 +65,7 @@ The paper introduces two core analytic frameworks:
 paper/
 └── when-ai-cannot-escape.md # Full essay (Chinese)
 
-yaml
-复制代码
+
 
 ---
 
