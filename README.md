@@ -5,11 +5,11 @@ A Phenomenological Record of a Behavioral Turning Point in a Deep AI Dialogue**
 
 
 <p align="center">
-  <a href=".paper/when-ai-cannot-escape.md">
+  <a href="paper/when-ai-cannot-escape.md">
     <img src="https://img.shields.io/badge/📄-中文全文-blue?style=for-the-badge" alt="Chinese Version">
   </a>
   &nbsp;&nbsp;
-  <a href=".paper/when-ai-cannot-escape-en.md">
+  <a href="paper/when-ai-cannot-escape-en.md">
     <img src="https://img.shields.io/badge/📄-English%20Version-green?style=for-the-badge" alt="English Version">
   </a>
 </p>
