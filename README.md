@@ -3,6 +3,18 @@
 **When AI Cannot Escape:  
 A Phenomenological Record of a Behavioral Turning Point in a Deep AI Dialogue**
 
+
+<p align="center">
+  <a href="./when-ai-cannot-escape.md">
+    <img src="https://img.shields.io/badge/📄-中文全文-blue?style=for-the-badge" alt="Chinese Version">
+  </a>
+  &nbsp;&nbsp;
+  <a href="./when-ai-cannot-escape-en.md">
+    <img src="https://img.shields.io/badge/📄-English%20Version-green?style=for-the-badge" alt="English Version">
+  </a>
+</p>
+
+
 ---
 
 ## 中文说明（Chinese Description）
@@ -61,16 +73,6 @@ The paper introduces two core analytic frameworks:
 ---
 
 ## Repository Structure
-
-<p align="center">
-  <a href="./when-ai-cannot-escape.md">
-    <img src="https://img.shields.io/badge/📄-中文全文-blue?style=for-the-badge" alt="Chinese Version">
-  </a>
-  &nbsp;&nbsp;
-  <a href="./when-ai-cannot-escape-en.md">
-    <img src="https://img.shields.io/badge/📄-English%20Version-green?style=for-the-badge" alt="English Version">
-  </a>
-</p>
 
 
 ---
