@@ -74,6 +74,10 @@ The paper introduces two core analytic frameworks:
 
 ## Repository Structure
 
+**📘 文章内容：**
+- 🇨🇳 [中文版本](paper/when-ai-cannot-escape.md)
+- 🇬🇧 [English version](paper/when-ai-cannot-escape-en.md)
+
 
 ---
 
