@@ -1,4 +1,4 @@
-# **When AI is Cornered: A Phenomenological Record and Analysis of Behavioral Shift in Deep Dialogue**
+# **When AI can not Escape: A Phenomenological Record and Analysis of Behavioral Shift in Deep Dialogue**
 
 ## **Abstract**
 
